@@ -31,8 +31,7 @@ biography-page/
 
 ## 📖 Certification
 
-This project was submitted as part of the  
-[freeCodeCamp](https://www.freecodecamp.org/)  
+This project was submitted as part of the [freeCodeCamp](https://www.freecodecamp.org/)  
 **Responsive Web Design Certification – Build a Tribute Page**
 
 ---
