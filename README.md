@@ -1,39 +1,33 @@
-# 🧑‍🎤 Biography Page
+# 👤 Biography Page - µLearn Web Task 2
 
-This is a **tribute/biography webpage** created using **HTML and CSS** as part of the **freeCodeCamp Responsive Web Design Certification**.
+This project was created for the µLearn Web Development Challenge — Task 2: **"Styling a Biography Page"**.  
+The goal was to design a simple biography webpage using **HTML** for structure and **CSS** for styling.
 
-## 📚 About the Project
+## 🔗 Task Reference
+[MDN Web Docs: CSS First Steps](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps)
 
-The project focuses on building a simple, well-structured webpage dedicated to a public figure. It uses semantic HTML and custom CSS styling to present information clearly and responsively.
+## 📘 Objective
+- Use basic CSS to style HTML elements
+- Learn about selectors, properties, and values
+- Practice layout and design fundamentals
 
-## 📁 Folder Structure
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
 
-```
+## 📁 Project Structure
 
-biography-page/
-├── index.html        # Main HTML page
-├── style.css         # Custom CSS file
-└── README.md         # Project documentation
-
-```
+| File | Description |
+|------|-------------|
+| `index.html` | Main HTML page containing the biography content |
+| `style.css`   | CSS file to style the biography page |
+| `README.md`   | This documentation file |
 
 ## 🎨 Features
+- Clean and readable biography layout
+- Custom styling with colors, fonts, and spacing
+- Responsive design principles (optional)
 
-- Semantic HTML5 structure
-- Custom CSS styling
-- Responsive layout for desktop and mobile
-- Tribute layout with headings, paragraphs, and a timeline/list
-
-## 🛠️ Tech Stack
-
-- **HTML5**
-- **CSS3**
-
-## 📖 Certification
-
-This project was submitted as part of the [freeCodeCamp](https://www.freecodecamp.org/)  
-**Responsive Web Design Certification – Build a Tribute Page**
-
----
-
-Made with ❤️ by [Joshil S Abraham](https://github.com/joshilsabraham)
+## 🚀 How to View
+1. Clone/download this repository
+2. Open `index.html` in a browser
